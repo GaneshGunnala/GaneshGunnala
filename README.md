@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaneshGunnala
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 👀 Cloud Services and Data Science Enthusiast.
+- 🌱 Currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on any craaazy ideas
 - 📫 How to reach me - gannygunnal@gmail.com
 
